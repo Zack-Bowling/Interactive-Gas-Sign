@@ -1,6 +1,4 @@
 /*
-CS435
-Project 3
 Zackary Bowling
 */
 
